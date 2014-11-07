@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MensajesyDialogos</string>
+    <string name="hello_world">Hello world!</string>
+    
+      <string name="paraque_aceptar">Aceptar</string>
+      <string name="paraque_texto">Esta aplicación fue desarrollada para Banco Mundial por:\n\n
+        CityDevs:\n\n
+      
+        \tJuan Carlos @juancar1os\n
+         \tMike Morán @yosoymikesaurio\n
+        \tOscar Montiel @tlacoyodefrijol\n
+        </string>
+
+</resources>

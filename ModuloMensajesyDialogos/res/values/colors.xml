@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+
+    
+     <color name="color_vivos">#000000</color>
+    <color name="color_fondos">#FCE796</color>
+    <color name="color_blanco">#ffffff</color>
+    
+<color name="color_safebus_verde">#44952e</color>
+<color name="color_safebus_rojo">#de2839</color>
+  
+
+</resources>
